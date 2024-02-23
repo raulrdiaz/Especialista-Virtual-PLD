@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Este es un archivo de prueba
-Este es un archivo de prueba 3
-=======
-prueba
->>>>>>> 7a1f3d2 (x)
